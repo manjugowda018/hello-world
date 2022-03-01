@@ -31,6 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <label for="psw-repeat"><b>Repeat Password</b></label>
+  <label for="psw-repeat"><b>manchester united</b></label>
 
    
 
